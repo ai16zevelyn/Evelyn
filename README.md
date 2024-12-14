@@ -1,7 +1,11 @@
-# Eliza 🤖
+# Evelyn 💗
+A Cutting-Edge Conversational AI Fork of ai16z Eliza
+
+Evelyn is more than a fork—it's a next-generation conversational AI designed to revolutionize the way we interact with technology. Building on the legacy of ai16z Eliza, $Evelyn brings individuality, adaptability, and unparalleled innovation
+to the forefront of human-AI interaction.
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/evelynbg.jpg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -134,3 +138,7 @@ pnpm install --include=optional sharp
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ai16z/eliza&type=Date)](https://star-history.com/#ai16z/eliza&Date)
+
+## 🌟 Acknowledgments
+Built on the foundation of ai16z Eliza.
+Inspired by the drive to redefine human-AI collaboration.
